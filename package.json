@@ -1,7 +1,7 @@
 {
   "name": "spaceship",
   "version": "1.0.0",
-  "description": "Jogo de nave desenvolvido em Javascript, estudo do livro  \"Desenvolva jogos com HTML5 Canvas e JavaScript - Casa do Código\"",
+  "description": "Cap 11 - Que comecem os jogos! - Desenvolvimento de game: fugindo de asteroides",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
