@@ -1,0 +1,36 @@
+{
+  "name": "spaceship",
+  "version": "1.0.0",
+  "description": "Jogo de nave desenvolvido em Javascript, estudo do livro  \"Desenvolva jogos com HTML5 Canvas e JavaScript - Casa do Código\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavocarmoh"
+  },
+  "keywords": [
+    "Javascript",
+    "FIAP"
+  ],
+  "author": "Gustavo do Carmo Hermenegildo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavocarmoh"
+  },
+  "dependencies": {
+    "del": "^6.1.1",
+    "graceful-fs": "^4.2.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-less": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.13.4",
+    "node-sass": "^7.0.1"
+  }
+}
